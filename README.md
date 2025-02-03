@@ -56,7 +56,7 @@ root_url = 'https://www.gradescope.com/'; % Change this to another website if de
 ### 2. **Network Size (N)**
 Defines the number of pages to collect.
 ```matlab
-N_values = [100, 300, 60, 10, 50]; % Modify as needed
+N_values = [100, 200, 300, 400, 500]; % Modify as needed
 ```
 - Larger **N** means more links but **slower computation**.
 
