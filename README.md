@@ -1,4 +1,3 @@
-```markdown
 # PageRank Modeling Using Markov Chains
 
 ## Overview
@@ -86,7 +85,6 @@ addpath('/MATLAB Drive/HW 2');
 ## Understanding the Output
 ### 1. **Top 10 Pages (PageRank Results)**
 For each (N, p) combination, the script prints the **top-ranked web pages**:
-
 ```
 Top 10 pages using Eigenvector method for N = 100, p = 0.85:
 1. https://example.com/page1 (Probability: 0.016126)
@@ -169,3 +167,6 @@ If `surfer.m` isn’t found:
 
 ## Acknowledgments
 This project is based on PageRank algorithms and Markov Chain modeling techniques inspired by Google's web ranking system.
+
+---
+
